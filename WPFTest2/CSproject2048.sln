@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFTest2", "WPFTest2\WPFTest2.csproj", "{C164A40E-467F-4C78-9623-D351D330CA88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2048MatrixPermutator", "..\2048MatrixPermutator\2048MatrixPermutator\2048MatrixPermutator.csproj", "{B4BBCF66-0CD1-4C56-ABD9-CEA298938B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C164A40E-467F-4C78-9623-D351D330CA88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C164A40E-467F-4C78-9623-D351D330CA88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C164A40E-467F-4C78-9623-D351D330CA88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C164A40E-467F-4C78-9623-D351D330CA88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BBCF66-0CD1-4C56-ABD9-CEA298938B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BBCF66-0CD1-4C56-ABD9-CEA298938B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BBCF66-0CD1-4C56-ABD9-CEA298938B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BBCF66-0CD1-4C56-ABD9-CEA298938B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FEE8BC5-BCA7-422C-AD43-1CA1B7A014D2}
+	EndGlobalSection
+EndGlobal
